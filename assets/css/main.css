@@ -4109,3 +4109,12 @@ input, select, textarea {
 					}
 
 	}
+.boop {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+.boop .row {
+	width: 100%;
+}
