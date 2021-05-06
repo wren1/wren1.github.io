@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+.preview {
+	width: 100%;
+	height: auto;
+}
+
 /* Basic */
 
 	html {
