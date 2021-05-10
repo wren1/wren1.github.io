@@ -77,6 +77,10 @@ input, select, textarea {
 	height: auto;
 }
 
+.photo {
+	border-radius: 50%;
+}
+
 /* Basic */
 
 	html {
@@ -2183,7 +2187,7 @@ input, select, textarea {
 			-webkit-transition: opacity 0.25s ease-in-out;
 			-ms-transition: opacity 0.25s ease-in-out;
 			transition: opacity 0.25s ease-in-out;
-			background-image: url("images/overlay.png");
+			/* background-image: url("images/overlay.png"); */
 			content: '';
 			display: block;
 			height: 100%;
