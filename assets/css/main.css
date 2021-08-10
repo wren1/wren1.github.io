@@ -73,8 +73,8 @@ input, select, textarea {
 }
 
 .preview {
+	height: 100%;
 	width: 100%;
-	height: auto;
 }
 
 .photo {
@@ -193,7 +193,7 @@ input, select, textarea {
 	}
 
 .skills {
-	margin: 20px 20px;
+	margin: 40px 20px;
 	display: flex;
 	justify-content: space-around;
 }
@@ -2642,7 +2642,7 @@ ul.skills .icon {
 
 	.feature {
 		position: relative;
-		height: 20em;
+		height: 17em;
 	}
 
 		.feature:after {
