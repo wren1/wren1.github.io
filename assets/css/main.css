@@ -192,6 +192,25 @@ input, select, textarea {
 		padding: 1em 0 1em 2em;
 	}
 
+.skills {
+	margin: 20px 20px;
+	display: flex;
+	justify-content: space-around;
+}
+ul.skills .icon {
+	font-size: 4em;
+}
+.skill {
+	margin: 15px 0px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.skill h1 {
+	margin: 20px 0px;
+	color: #FFC3C3;
+}
+
 /* Container */
 
 	.container {
@@ -2291,6 +2310,7 @@ input, select, textarea {
 		}
 
 		.icon.solid:before {
+			font-family: 'FontAwesome5Free-Solid';
 			font-weight: 900;
 		}
 
