@@ -79,17 +79,20 @@ a[href] {
     border-radius: 50%;
 }
 #top .header {
-    font-size: 8em;
+    font-size: 17.5vh;
     color: rgb(255, 225, 0);
 }
 #top .subheader {
     position: relative;
+    font-size: 11.5vh;
     /* align-self: flex-end; */
     bottom: 0px;
     left: 0px;
 }
 .smiley {
-    width: 35em;
+    /* width: 35em; */
+    width: 38vw;
+    /* max-height: 90vh; */
     position: absolute;
     right: 2em;
     top: 2em;
@@ -160,7 +163,7 @@ a[href] {
     align-content: center;
 }
 #skills .skill__container {
-    width: 15%;
+    width: 16%;
     margin: 1.2em .7em;
     box-sizing: border-box;
     cursor: default;
