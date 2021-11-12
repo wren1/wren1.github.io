@@ -59,7 +59,7 @@ export const projectsArr = [
             name: 'Make Notes',
             img: '/images/clevernote/newnote'
         }, {
-            name: 'Create Ntoebooks',
+            name: 'Create Notebooks',
             img: '/images/clevernote/makenotebooks'
         }, {
             name: 'View posts by tag',
